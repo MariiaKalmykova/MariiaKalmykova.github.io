@@ -49,7 +49,7 @@ Overall, it was a week of enjoyment, learning to listen to myself, and savoring 
 
 ### **A Journey Home (in Spirit)**
 
-I rarely listened to music while riding, saving it for when I was truly exhausted. One song I particularly love is "Train to Simferopol." Simferopol, my hometown in Crimea, Ukraine, is a place my family and I had to leave in 2014 due to the Russian occupation, when I was 15 years old. Listening to it, I am often overcome with sadness, realizing how long it might be until I could come back home again, or even just visit my homeland.
+I rarely listened to music while riding, saving it for when I was truly exhausted. One song I particularly love is ["Train to Simferopol"] (https://www.youtube.com/watch?v=fYLpPg7DVZ4&list=RDfYLpPg7DVZ4&start_radio=1&ab_channel=Ukra%D1%97ner). Simferopol, my hometown in Crimea, Ukraine, is a place my family and I had to leave in 2014 due to the Russian occupation, when I was 15 years old. Listening to it, I am often overcome with sadness, realizing how long it might be until I could come back home again, or even just visit my homeland.
 
 Yet, seeing so many pensioners on their bikes, cycling for weeks, I found myself wishing, while listening to that song: "I hope that by the time I retire, my home village will be free again and the war will be over. Then, I will ride bikes with my grandchildren from Germany to Crimea, showing them my home."
 
