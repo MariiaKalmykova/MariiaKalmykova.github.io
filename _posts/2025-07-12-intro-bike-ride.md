@@ -13,8 +13,9 @@ body, p, h1, h2, h3, h4, h5, h6, li, ul, ol, blockquote {
 <div style="float:right; margin-left:20px; margin-bottom:10px;">
     <img src="/assets/masha_bike_forest.png" alt="Masha with bike in forest" width="300"/>
      <div style="font-size:0.9em; color:gray; margin-top:6px;">
-        May 25, 2025. On the way to Münster, Germany.
-        After the whole day under the rain, I was happy to see the sun. 
+        <em>May 25, 2025. On the way to Münster, Germany.<br>
+        After the whole day under the rain,<br>
+         I was happy to see the sun.<em>
          </div>
 </div>
 
@@ -60,7 +61,7 @@ Yet, seeing so many pensioners on their bikes, cycling for weeks, I found myself
 <div style="float:right; margin-left:20px; margin-bottom:10px; text-align:center;">
     <img src="/assets/blue_yellow.png" alt="Blue and yellow in The Hague" width="300"/>
      <div style="font-size:0.9em; color:gray; margin-top:6px;">
-        May 30, 2025. The Hague, the Netherlands.
+        May 30, 2025. The Hague, the Netherlands.<br>
          Yellow mirrador tower
          </div>
 </div>
@@ -73,9 +74,6 @@ To show your support for this blog, you can include "Masha bike blog " in the do
 
 No matter where we are, we can all support Ukrainians who are fighting this evil every day, protecting with their lives our freedom to live, enjoy life, and smile.
 
-<br><br>
-
-<br><br>
 
 #### **More to come**
 
@@ -84,15 +82,18 @@ In this blog, I'd love to share some of my thoughts with you, especially if you'
 <div style="float:left; margin-right:20px; margin-bottom:10px; text-align:center;">
     <img src="/assets/masha_netherlands.png" alt="Masha in Netherlands" width="300"/>
     <div style="font-size:0.9em; color:gray; margin-top:6px;">
-        May 29, 2025. Amersfoort, the Netherlands
-       The night before, I accidentally left some clothes and belongings at a Ukrainian family’s home in Germany.
-        I quickly replaced the essentials and continued my journey through the lovely cities and villages of the Netherlands
+       <em> May 29, 2025. Amersfoort, the Netherlands
+       The night before, I accidentally left some clothes and belongings 
+        at a Ukrainian family’s home in Germany.
+        I quickly replaced the essentials
+        and continued my journey through
+        the lovely cities and villages of the Netherlands<em>
     </div>
 </div>
 <div style="float:right; margin-left:20px; margin-bottom:10px; text-align:center;">
     <img src="/assets/masha_netherlands_beach.png" alt="Masha at Netherlands beach" width="300"/>
     <div style="font-size:0.9em; color:gray; margin-top:6px;">
-       May 30, 2025. Scheveningen beach
-        Me when I realized that I made it to the sea by bike.<br>
+      <em> May 30, 2025. Scheveningen beach.<br>
+        Me when I realized that I made it to the sea by bike.<em>
     </div>
 </div>
