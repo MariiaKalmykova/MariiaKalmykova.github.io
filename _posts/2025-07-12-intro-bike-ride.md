@@ -65,8 +65,6 @@ No matter where we are, we can all support Ukrainians who are fighting this evil
 
 <br><br>
 
----
-
 <br><br>
 
 In this blog, I'd love to share some of my thoughts with you, especially if you're wondering whether to think about your next adventure or just embrace the bike ride. I'll cover a few aspects of my journey, including the Route and most memorable places, Lessons learned, and some Funny (or not so much) moments.
@@ -80,7 +78,7 @@ In this blog, I'd love to share some of my thoughts with you, especially if you'
 <div style="float:right; margin-left:20px; margin-bottom:10px; text-align:center;">
     <img src="/assets/masha_netherlands_beach.png" alt="Masha at Netherlands beach" width="300"/>
     <div style="font-size:0.9em; color:gray; margin-top:6px;">
-        My smile when I recognized that I made it to the sea by bike.<br>
+       Me when I realized that I made it to the sea by bike.<br>
         May 30, 2025. Scheveningen beach
     </div>
 </div>
