@@ -13,7 +13,7 @@ body, p, h1, h2, h3, h4, h5, h6, li, ul, ol, blockquote {
 <div style="float:right; margin-left:20px; margin-bottom:10px;">
     <img src="/assets/masha_bike_forest.png" alt="Masha with bike in forest" width="300"/>
      <div style="font-size:0.9em; color:gray; margin-top:6px;">
-        May 25, 2025. On the way to Munster, Germany.
+        May 25, 2025. On the way to Münster, Germany.
         After the whole day under the rain, I was happy to see the sun. 
          </div>
 </div>
@@ -41,7 +41,7 @@ My dad found a used bike for me 2 years ago, which I bought for 400 euros. After
     <img src="/assets/camping_munster_edited.png" alt="Masha camping in Munster" width="400"/>
 </div>
 <p align="center" style="font-size:0.85em; color:gray;">
-    <em>May 25, 2025. Münster Campingplatz</em>
+    <em>May 26, 2025. Münster Campingplatz</em>
     </p>
 
 To say it right away, I didn't solve any big philosophical questions out there. Instead, it was more than a week dedicated to truly enjoying the ride, being close to nature in all its forms, even when it was mostly rain and wind against my direction.
