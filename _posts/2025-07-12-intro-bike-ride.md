@@ -41,11 +41,11 @@ My dad found a used bike for me 2 years ago, which I bought for 400 euros. After
     </p>
 
 To say it right away, I didn't solve any big philosophical questions out there. Instead, it was more than a week dedicated to truly enjoying the ride, being close to nature in all its forms – even when it was mostly rain and wind against my direction.
-My focus narrowed to just core needs: how to get from point A (starting point) to approximate point B (camping platz).If you don't know your point B as the day gets closer to the end, it's mentally way harder to proceed! Plus, figuring out what to eat for lunch and dinner today, since breakfast was always the same: that "beautiful" oatmeal.
+My focus narrowed to just core needs: how to get from point A (starting point) to approximate point B (camping platz). If you don't know your point B as the day gets closer to the end, it's mentally way harder to proceed! Plus, figuring out what to eat for lunch and dinner today, since breakfast was always the same: that "beautiful" oatmeal.
 
 *“The wind goes from West to East”* that's what one of the granddads in Münster told me. That was one of the only few phrases that really stuck with me and wasn't from my "simplicity and clarity of mind" series. It definitely got harder to ride against the wind as I was coming closer to the sea... Or maybe I just made it up in my head to explain why it was difficult for me to ride.
 
-Overall, it was a week of enjoyment, learning to listen to myself, and savoring every moment on the bike while looking forward to reaching my goal
+Overall, it was a week of enjoyment, learning to listen to myself, and savoring every moment on the bike while looking forward to reaching my goal.
 
 ### **A Journey Home (in Spirit)**
 
