@@ -4,19 +4,13 @@ title: My Dream Solo Bike Ride to the Netherlands
 author: Mariia Kalmykova
 ---
 
-<style>
-body, p, h1, h2, h3, h4, h5, h6, li, ul, ol, blockquote {
-    font-family: 'Lato', Arial, sans-serif;
-}
-</style>
-
 <div style="float:right; margin-left:20px; margin-bottom:10px;">
     <img src="/assets/masha_bike_forest.png" alt="Masha with bike in forest" width="300"/>
-     <div style="font-size:0.9em; color:gray; margin-top:6px;">
-        <em>May 25, 2025. On the way to Münster, Germany.<br>
+<p align="center" style="font-size:0.85em; color:gray;">
+    <em>May 25, 2025. On the way to Münster, Germany.<br>
         After the whole day under the rain,<br>
-         I was happy to see the sun.<em>
-         </div>
+         I was happy to see the sun.</em>
+</p>
 </div>
 
 Hi, I'm Masha, 26 years old, and recently I've fulfilled my dream to go to the Netherlands by bike!
@@ -40,10 +34,10 @@ My dad found a used bike for me 2 years ago, which I bought for 400 euros. After
 
 <div style="float:left; margin-right:20px; margin-bottom:10px;">
     <img src="/assets/camping_munster_edited.png" alt="Masha camping in Munster" width="400"/>
-</div>
 <p align="center" style="font-size:0.85em; color:gray;">
     <em>May 26, 2025. Münster Campingplatz</em>
     </p>
+    </div>
 
 To say it right away, I didn't solve any big philosophical questions out there. Instead, it was more than a week dedicated to truly enjoying the ride, being close to nature in all its forms, even when it was mostly rain and wind against my direction.
 My focus narrowed to just core needs: how to get from point A (starting point) to approximate point B (camping platz). If you don't know your point B as the day gets closer to the end, it's mentally way harder to proceed! Plus, figuring out what to eat for lunch and dinner today, since breakfast was always the same: that "beautiful" oatmeal.
@@ -60,40 +54,40 @@ Yet, seeing so many pensioners on their bikes, cycling for weeks, I found myself
 
 <div style="float:right; margin-left:20px; margin-bottom:10px; text-align:center;">
     <img src="/assets/blue_yellow.png" alt="Blue and yellow in The Hague" width="300"/>
-     <div style="font-size:0.9em; color:gray; margin-top:6px;">
-        May 30, 2025. The Hague, the Netherlands.<br>
-         Yellow mirrador tower
+    <p align="center" style="font-size:0.85em; color:gray;">
+       <em>May 30, 2025. The Hague, the Netherlands.<br>
+         Yellow mirrador tower.</em>
+           </p>
          </div>
-</div>
 
 #### **Call to Support 🇺🇦**
 
 If you’d like to support humanitarian aid for Ukraine, you can donate directly via [Paypal link](https://paypal.me/ugloberih?country.x=DE&locale.x=de_D). All donations go to ["Oberih](https://www.facebook.com/share/16kHsAVmcJ/?mibextid=wwXIfr)," a local non-profit community in Leipzig doing incredible work on the ground. Their projects include creating joyful moments for children who lost their parents during the war (like organizing Christmas presents), sending needed equipment to the front lines, and organizing cultural charity events in Leipzig.
 
-To show your support for this blog, you can include "Masha bike blog " in the donation description. Thank you! 
+To show your support for this blog, you can include "Masha bike blog " in the donation description. Thank you!
 
 No matter where we are, we can all support Ukrainians who are fighting this evil every day, protecting with their lives our freedom to live, enjoy life, and smile.
-
 
 #### **More to come**
 
 In this blog, I'd love to share some of my thoughts with you, especially if you're wondering whether to think about your next adventure or just embrace the bike ride. I'll cover a few aspects of my journey, including the Route and most memorable places, Lessons learned, and some Funny (or not so much) moments.
 
-<div style="float:left; margin-right:20px; margin-bottom:10px; text-align:center;">
-    <img src="/assets/masha_netherlands.png" alt="Masha in Netherlands" width="300"/>
-    <div style="font-size:0.9em; color:gray; margin-top:6px;">
-       <em> May 29, 2025. Amersfoort, the Netherlands
-       The night before, I accidentally left some clothes and belongings 
-        at a Ukrainian family’s home in Germany.
-        I quickly replaced the essentials
-        and continued my journey through
-        the lovely cities and villages of the Netherlands<em>
+<div style="display: flex; gap: 40px; margin-bottom: 20px; justify-content: center;">
+    <div style="flex: 1; text-align: center;">
+        <img src="/assets/masha_netherlands.png" alt="Masha in Netherlands" width="300"/>
+        <div style="font-size:0.9em; color:gray; margin-top:6px;">
+            <em>May 29, 2025. Amersfoort, the Netherlands<br>
+            The night before, I accidentally left some clothes and belongings
+            at a Ukrainian family’s home in Germany.<br>
+            I quickly replaced the essentials and continued my journey through
+            the lovely cities and villages of the Netherlands</em>
+        </div>
     </div>
-</div>
-<div style="float:right; margin-left:20px; margin-bottom:10px; text-align:center;">
-    <img src="/assets/masha_netherlands_beach.png" alt="Masha at Netherlands beach" width="300"/>
-    <div style="font-size:0.9em; color:gray; margin-top:6px;">
-      <em> May 30, 2025. Scheveningen beach.<br>
-        Me when I realized that I made it to the sea by bike.<em>
+    <div style="flex: 1; text-align: center;">
+        <img src="/assets/masha_netherlands_beach.png" alt="Masha at Netherlands beach" width="300"/>
+        <div style="font-size:0.9em; color:gray; margin-top:6px;">
+            <em>May 30, 2025. Scheveningen beach.<br>
+            Me when I realized that I made it to the sea by bike.</em>
+        </div>
     </div>
 </div>
