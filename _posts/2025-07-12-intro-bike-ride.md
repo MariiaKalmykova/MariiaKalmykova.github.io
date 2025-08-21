@@ -62,7 +62,7 @@ Yet, seeing so many pensioners on their bikes, cycling for weeks, I found myself
 
 #### **Call to Support 🇺🇦**
 
-If you’d like to support humanitarian aid for Ukraine, you can donate directly via [Paypal link](https://paypal.me/ugloberih?country.x=DE&locale.x=de_D). All donations go to ["Oberih](https://www.facebook.com/share/16kHsAVmcJ/?mibextid=wwXIfr)," a local non-profit community in Leipzig doing incredible work on the ground. Their projects include creating joyful moments for children who lost their parents during the war (like organizing Christmas presents), sending needed equipment to the front lines, and organizing cultural charity events in Leipzig.
+If you’d like to support humanitarian aid for Ukraine, you can donate directly via [Paypal link](https://paypal.me/ugloberih?country.x=DE&locale.x=de_D). All donations go to ["Oberih](https://m.facebook.com/p/Ukrainische-Gemeinschaft-Leipzig-Oberih-61555125334070/)," a local non-profit community in Leipzig doing incredible work on the ground. Their projects include creating joyful moments for children who lost their parents during the war (like organizing Christmas presents), sending needed equipment to the front lines, and organizing cultural charity events in Leipzig.
 
 To show your support for this blog, you can include "Masha bike blog " in the donation description. Thank you!
 
